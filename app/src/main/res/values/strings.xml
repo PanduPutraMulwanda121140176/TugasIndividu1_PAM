@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Tugas Individu 1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="submit_button_text">Submit</string>
+</resources>
